@@ -2,4 +2,4 @@
 
 Instructor: Andrew Ng
 
-Citation: https://www.coursera.org/learn/machine-learning
+Citation: https://www.coursera.org/specializations/machine-learning-introduction
