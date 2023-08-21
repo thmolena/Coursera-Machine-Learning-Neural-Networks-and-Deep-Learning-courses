@@ -1,3 +1,9 @@
-# Coursera Machine Learning <br> Offered by: Stanford University <br> Instructor: Andrew Ng
+# Coursera Machine Learning, Neural Networks and Deep Learning courses <br> 
 
-Citation: https://www.coursera.org/learn/machine-learning
+Instructor: Andrew Ng
+
+Citation: 
+
+https://www.coursera.org/specializations/machine-learning-introduction
+
+https://www.coursera.org/learn/neural-networks-deep-learning
